@@ -1,2 +1,3 @@
 .env
 input/twcs/twcs.csv
+input/embeddings/faiss_db.pkl
