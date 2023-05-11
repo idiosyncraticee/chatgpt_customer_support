@@ -1,4 +1,6 @@
-`conda activate langchain_3_9`
+`conda create -n startup_gpt python=3.9`
+
+`conda activate startup_gpt`
 
 `jupyter nbconvert startup_gpt_presentation.ipynb --to slides --post serve --ServePostProcessor.port=8081`
 

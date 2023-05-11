@@ -1,2 +1,11 @@
 pandas==1.5.3
 regex==2023.3.23
+plotly==5.14.1
+tqdm==4.65.0
+matplotlib==3.7.1
+openai==0.27.6
+langchain==0.0.155
+sentence_transformers==2.2.2
+tiktoken==0.3.3
+faiss-cpu==1.7.3
+nbformat==5.8.0
